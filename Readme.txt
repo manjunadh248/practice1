@@ -12,3 +12,5 @@ to dorecursivley iam using git pull -r
 
 this is for recursivley 
 
+
+this is my normal commit
