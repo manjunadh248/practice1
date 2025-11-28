@@ -6,4 +6,9 @@
  `
 if i cange both file edit in local and server what will happen when i push the command 
 
-to dorecursivley iam using git pull -r 
+
+to dorecursivley iam using git pull -r
+
+
+this is for recursivley 
+
