@@ -2,3 +2,7 @@
  
 
  this is my inside local repositiory commit what will happen i will see now`
+
+ `
+if i cange both file edit in local and server what will happen when i push the command 
+
