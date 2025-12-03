@@ -25,6 +25,11 @@ this is second
 
 this is for online repo
 
+<<<<<<< HEAD
 
 
 this is git bash conflict 
+=======
+this is online repo change to conflict the github and git bash
+
+>>>>>>> 92f5bc2d5211b191a84487bbf310a5f428ea5c5d
